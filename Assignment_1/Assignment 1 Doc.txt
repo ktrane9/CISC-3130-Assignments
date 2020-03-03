@@ -10,3 +10,21 @@ the data that will be used in the code after it is read in.
 This includes the input file Top Global Songs.csv, Top US Songs.csv,
 tracklist.txt, and the output file, dataReport.csv
 
+To fully realize the task I had to take serval steps in coding to
+organize the input data correctly. First I would find a way to read
+in the data by turning each line on the csv file in an array. In 
+order to do that I split the data on each line by their "," and 
+tokenized the data into it's own ArrayList. Then there would be an
+ArrayList of ArrayLists that held the data in order to make it a 2-D
+Array. 
+After reading in the data I was free to print it once again to a
+separate file by printing out each item in the ArrayList of ArrayLists.
+In order to sort the data I needed two create two classes, Top_Artists, 
+and Artists. One class held a Linked List object and the other acted as
+a node and pointer for the Linked List. 
+I then created a method in my main class that used the Bubble Sort method 
+to sort through the data, but in order to stop repeating it I would have to
+get rid of repeating strings by using a remove method on the ArrayList.
+I then printed out the Top 10 Artists by Alphabetical order into the output
+file.
+
