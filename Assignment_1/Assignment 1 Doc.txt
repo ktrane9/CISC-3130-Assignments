@@ -1,0 +1,10 @@
+Assignment 1 Document - Kohl Elie
+---------------------------------
+
+In order for the navigator to see my code correctly, 
+I have organized my files in such a way that the documented files
+like this one are on the outside of the source folder.
+The source folder is where I keep the code for Assignment 1.java,
+Artsits.java, and Top_Artists.java. In the data folder I will keep
+the data that will be used in the code after it is read in.
+
