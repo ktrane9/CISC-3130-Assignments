@@ -7,4 +7,6 @@ like this one are on the outside of the source folder.
 The source folder is where I keep the code for Assignment 1.java,
 Artsits.java, and Top_Artists.java. In the data folder I will keep
 the data that will be used in the code after it is read in.
+This includes the input file Top Global Songs.csv, Top US Songs.csv,
+tracklist.txt, and the output file, dataReport.csv
 
