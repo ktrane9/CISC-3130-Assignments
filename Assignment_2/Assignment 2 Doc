@@ -1,0 +1,6 @@
+In Assignment 2 I was directed to process the top songs from previous weeks on Spotify.
+Using the data I sorted the songs alphabetically and then put them into a Queue that would act as a playlist.
+From there I pushed every song from the Queue and into the Stack so that it could trace the most recent
+song played.
+
+The most recent song is printed to the output file.
